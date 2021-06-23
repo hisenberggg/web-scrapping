@@ -1,18 +1,17 @@
-# web-scrapping assignment
+# web-scrapping 
 
-### Task 1: 
+ 
 Input file: scraping1.py
 Output file: property-details.csv
 - Extracts all information of the properties and stores it in a csv file.
 - Handed infinite scrolling using Selenium
 
-### Task 2:
+
 Input file: scraping2.py
 Output file: property-details_2-bhk.csv
 - Checks 3bhk and 4bhk from dropdown of BHK and extracts all the information and stores it in csv file
 - Handed infinite scrolling using Selenium
 
-### Additional work:
 Input file: test.py
 Output file: property-details-3-bhk.csv
 - Uses request api to fetch information from the site
